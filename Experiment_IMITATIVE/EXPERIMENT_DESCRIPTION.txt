@@ -1,0 +1,4 @@
+Imitative Initialization Experiment 
+In this experiment the experience replay memory of the agent was initialized with 
+data collected from a human player playing the challenge. In total 2865 points were 
+collected and used. 
