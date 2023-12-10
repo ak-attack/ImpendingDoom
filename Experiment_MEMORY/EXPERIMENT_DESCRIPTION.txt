@@ -1,0 +1,8 @@
+Memory Expansion Experiment
+In this experiment the experience replay memory of the agent was heavily expanded with 
+memories of different scenarios. First the agent was trained in a scenario with only 
+the 2 Cacodemons. All experience replay memory from learning this task was preserved. 
+Next the agent was trained in a scenario with only WolfensteinSS. All experience replay 
+memory from learning this task was also preserved. Finally the agent would be trained on 
+the challenge. Experience replay would be run on each of the preserved memories alongside 
+the agent's own memory.

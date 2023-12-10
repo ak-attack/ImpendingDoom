@@ -1,0 +1,426 @@
+Setting Up Doom Game
+==================================================================================================
+
+Task: scenarios/basic_two_cacodemon.cfg
+Number of Buttons: 3
+Initializing new model
+
+Running
+==================================================================================================
+
+Epoch #1
+
+            Mean Reward:            -30.428571428571427
+            Standard Deviation:  +/-295.564543982975
+            Minimum Reward:         -1209.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            -46.82
+        Standard Deviation:  +/-361.162273223547
+        Minimum Reward:         -1251.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 2.52 minutes
+
+Epoch #2
+
+            Mean Reward:            52.232
+            Standard Deviation:  +/-246.89878528660282
+            Minimum Reward:         -1264.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            95.11
+        Standard Deviation:  +/-158.4737135931382
+        Minimum Reward:         -1234.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 4.87 minutes
+
+Epoch #3
+
+            Mean Reward:            69.27443609022556
+            Standard Deviation:  +/-230.47297695366592
+            Minimum Reward:         -1280.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            97.91
+        Standard Deviation:  +/-171.78376494884492
+        Minimum Reward:         -1264.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 7.20 minutes
+
+Epoch #4
+
+            Mean Reward:            112.22758620689655
+            Standard Deviation:  +/-99.17426284785275
+            Minimum Reward:         -1238.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            117.8
+        Standard Deviation:  +/-64.02093407628477
+        Minimum Reward:         -244.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 9.50 minutes
+
+Epoch #5
+
+            Mean Reward:            118.84567901234568
+            Standard Deviation:  +/-95.96141656407218
+            Minimum Reward:         -1169.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            127.2
+        Standard Deviation:  +/-52.081474633500925
+        Minimum Reward:         -127.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 11.72 minutes
+
+Epoch #6
+
+            Mean Reward:            126.7202216066482
+            Standard Deviation:  +/-88.98412106445137
+            Minimum Reward:         -1225.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            138.85
+        Standard Deviation:  +/-48.639156037086
+        Minimum Reward:         -119.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 13.93 minutes
+
+Epoch #7
+
+            Mean Reward:            129.26756756756757
+            Standard Deviation:  +/-82.4180921952838
+            Minimum Reward:         -1101.0
+            Maximum Reward:         182.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            134.92
+        Standard Deviation:  +/-63.45434264098872
+        Minimum Reward:         -259.0
+        Maximum Reward:         182.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 16.10 minutes
+Setting Up Doom Game
+==================================================================================================
+
+Task: scenarios/basic_one_wolfensteinSS.cfg
+Number of Buttons: 3
+Initializing new model
+
+Running
+==================================================================================================
+
+Epoch #1
+
+            Mean Reward:            -155.8671875
+            Standard Deviation:  +/-188.48608913747412
+            Minimum Reward:         -380.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            -62.69
+        Standard Deviation:  +/-157.87132070138642
+        Minimum Reward:         -365.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 2.83 minutes
+
+Epoch #2
+
+            Mean Reward:            5.1826923076923075
+            Standard Deviation:  +/-105.12947735119819
+            Minimum Reward:         -400.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            1.25
+        Standard Deviation:  +/-106.56578953866949
+        Minimum Reward:         -375.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 5.52 minutes
+
+Epoch #3
+
+            Mean Reward:            14.828025477707007
+            Standard Deviation:  +/-89.11426704164029
+            Minimum Reward:         -385.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            32.56
+        Standard Deviation:  +/-79.41691507481262
+        Minimum Reward:         -330.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 8.14 minutes
+
+Epoch #4
+
+            Mean Reward:            30.043010752688172
+            Standard Deviation:  +/-78.27933356929942
+            Minimum Reward:         -365.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            9.38
+        Standard Deviation:  +/-104.93376768228613
+        Minimum Reward:         -375.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 10.78 minutes
+
+Epoch #5
+
+            Mean Reward:            20.095808383233532
+            Standard Deviation:  +/-83.23509260590141
+            Minimum Reward:         -370.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            6.8
+        Standard Deviation:  +/-105.91553238312122
+        Minimum Reward:         -365.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 13.44 minutes
+
+Epoch #6
+
+            Mean Reward:            18.32608695652174
+            Standard Deviation:  +/-89.43780171365641
+            Minimum Reward:         -365.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            27.15
+        Standard Deviation:  +/-80.51215746705587
+        Minimum Reward:         -350.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 16.03 minutes
+
+Epoch #7
+
+            Mean Reward:            8.88013698630137
+            Standard Deviation:  +/-105.88234625893166
+            Minimum Reward:         -360.0
+            Maximum Reward:         95.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            9.51
+        Standard Deviation:  +/-95.93523805151057
+        Minimum Reward:         -330.0
+        Maximum Reward:         95.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 18.73 minutes
+Setting Up Doom Game
+==================================================================================================
+
+Task: scenarios/basic_upgraded.cfg
+Number of Buttons: 3
+Initializing new model
+
+Running
+==================================================================================================
+
+Epoch #1
+
+            Mean Reward:            -113.80530973451327
+            Standard Deviation:  +/-385.6659074694004
+            Minimum Reward:         -1204.0
+            Maximum Reward:         269.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            -169.8
+        Standard Deviation:  +/-445.5327597382711
+        Minimum Reward:         -1162.0
+        Maximum Reward:         269.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 3.54 minutes
+
+Epoch #2
+
+            Mean Reward:            48.2
+            Standard Deviation:  +/-259.5146823299745
+            Minimum Reward:         -1114.0
+            Maximum Reward:         269.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            90.85
+        Standard Deviation:  +/-193.33961699558628
+        Minimum Reward:         -1173.0
+        Maximum Reward:         269.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 6.96 minutes
+
+Epoch #3
+
+            Mean Reward:            63.50684931506849
+            Standard Deviation:  +/-260.77283050802873
+            Minimum Reward:         -1151.0
+            Maximum Reward:         269.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            113.68
+        Standard Deviation:  +/-208.07003051857328
+        Minimum Reward:         -1135.0
+        Maximum Reward:         269.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 10.31 minutes
+
+Epoch #4
+
+            Mean Reward:            104.74657534246575
+            Standard Deviation:  +/-153.2281766911926
+            Minimum Reward:         -1049.0
+            Maximum Reward:         261.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            86.28
+        Standard Deviation:  +/-185.05021372589658
+        Minimum Reward:         -1101.0
+        Maximum Reward:         269.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 13.73 minutes
+
+Epoch #5
+
+            Mean Reward:            96.3433734939759
+            Standard Deviation:  +/-249.3454736448483
+            Minimum Reward:         -1087.0
+            Maximum Reward:         269.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            99.54
+        Standard Deviation:  +/-234.9904006550055
+        Minimum Reward:         -1126.0
+        Maximum Reward:         269.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 17.15 minutes
+
+Epoch #6
+
+            Mean Reward:            124.02222222222223
+            Standard Deviation:  +/-189.97069819537828
+            Minimum Reward:         -1064.0
+            Maximum Reward:         269.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            143.58
+        Standard Deviation:  +/-97.02269631380072
+        Minimum Reward:         -173.0
+        Maximum Reward:         269.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 20.47 minutes
+
+Epoch #7
+
+            Mean Reward:            114.43452380952381
+            Standard Deviation:  +/-200.673349829807
+            Minimum Reward:         -1136.0
+            Maximum Reward:         269.0
+            
+
+Testing
+==================================================================================================
+
+        Mean Reward:            104.36
+        Standard Deviation:  +/-179.0776099907523
+        Minimum Reward:         -1193.0
+        Maximum Reward:         259.0
+        
+Saving Network Weights to ./Experiment.pth
+Total elapsed time: 23.86 minutes
