@@ -1,0 +1,4 @@
+Iterative Learning Experiment 
+In this experiment the agent was trained first on a scenario with only 2 Cacodemons, 
+excluding WolfensteinSS. Neural network information was then saved then loaded when 
+the agent was trained on the challenge. 
