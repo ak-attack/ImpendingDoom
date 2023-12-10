@@ -1,0 +1,4 @@
+Brute Force Experiment
+In this experiment the agent was run on the challenge without any supplemental techniques. 
+The agent learned from scratch without any form of knowledge transfer. Results would 
+be compared against all further experiments.
